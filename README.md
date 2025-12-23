@@ -9,5 +9,5 @@ I create stuff.
 
 ## Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairejustin&theme=radical&layout=donut)
+![Top Langs](https://github-readme-stats-virid-alpha-94.vercel.app/api/top-langs/?username=jairejustin&theme=radical&layout=donut)
 ![GitHub stats](https://github-readme-stats-virid-alpha-94.vercel.app/api?username=jairejustin&show_icons=true&theme=radical)
